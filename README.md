@@ -1,5 +1,5 @@
-# Exploring-YOLO
-This project explores YOLO, a powerful image detection algorithm that leverages CNNs.
+# Exploring YOLO
+This project explores YOLO, a powerful image detection algorithm that leverages CNNs. 
 
 ## Quick start
 To run the project, you can clone this repository:
